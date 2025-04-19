@@ -1,11 +1,10 @@
-# Este archivo ha sido renombrado a nebula_logging.py para evitar conflictos con el módulo estándar logging de Python.
-# Por favor, usa 'import nebula_logging' en lugar de 'import logging' para la configuración personalizada de logging de NEBULA.
+# Archivo renombrado de logging.py a nebula_logging.py para evitar conflicto con el módulo estándar logging
 
 """
 Configuración de logging para NEBULA.
 
 Este módulo configura el sistema de logging utilizado por todos los componentes
-del sistema NEBULA.
+ del sistema NEBULA.
 """
 
 import logging
